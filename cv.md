@@ -1,17 +1,18 @@
 # Dusmagambetova Malika
 
-### Contact information
+### Contact information:
 
 ##### Phone: +77775710643
 ##### Email: dusmagambetovaaa@gmail.com
 ##### Telegram: @mlkadus
 ##### [LinkedIn](https://www.linkedin.com/in/malika-dusmagambetova-587564288/)
+##### [GitHub](https://github.com/mlkad)
 
-### About myself
+### About myself:
 
 I am studying at Astana IT University with GPA 3.3. ALso, I have experience in participating in hackathons. I took 3rd place at the hackathon held by the ACM Club of Nazarbayev University "Code Girl Summer". I also participated in HackNu and Amanat hackathon. I always try to take advantage of every opportunity to gain knowledge.
 
-### Skills
+### Skills:
 
 * JavaScript, TypeScript, React basics
 * Python, Java, C++ basics
@@ -21,7 +22,7 @@ I am studying at Astana IT University with GPA 3.3. ALso, I have experience in p
 * VS code, Visual Studio, IntellJ IDEA
 * Git, GitHub
 
-### Code example
+### Code example:
 DESCRIPTION:
 At the annual family gathering, the family likes to find the oldest living family member’s age and the youngest family member’s age and calculate the difference between them.
 
@@ -51,12 +52,12 @@ function differenceInAges(ages){
 }
 ```
 
-### Education 
+### Education:
 * Bachelor degree Software Engineering at Astana IT University (2023-2026)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (expected)
 * Marathon by ACM club of Nazarbayev Unuversity of Frontend Development "Code Girl Summer", 2023
 
-### Languages
+### Languages:
 * English B2 (IELTS 6.0)
 * Russian (Native Speaker)
 * Kazakh (Intermediate)
