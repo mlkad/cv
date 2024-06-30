@@ -12,9 +12,18 @@
 
 I am studying at Astana IT University with GPA 2.9. I have extensive experience in participating in hackathons and olympiads, for instance:
 * 3rd place at "Code Girl Summer" hackaton held by ACM club of Nazarbayev University, 2023
+
+My teammates and I have developed a website to provide psychological support.
+The user enters his mental problems and experiences into the field, and artificial intelligence(ChatGPT API) displays words of support. 
 * "Amanat Tech" hackaton, 2023
-* HackNu hackaton, 2024
+  
+Our goal was to develop an IT solution to combat drug addiction. We have developed a telegram bot that simulates the purchase of prohibited substances, and the buyer’s data will be transferred to law enforcement agencies of the country.
+* HackNU hackaton(sponcered by EPAM), 2024
+
+We have developed a website for learning the Kazakh language, in which the main face of the brand is the artificial intelligence "AI Nur", with whom you can communicate in the Kazakh language. The remaining sections contain theoretical materials on grammar, useful books and films for learning Kazakh, as well as tests to test your knowledge
 * GDSC hackaton, 2024
+  
+We have developed a mobile application in which users can find a list of attractions in the city of Astana, as well as routes to them
 * AITU Open olympiad in sports programming, 2024
 
 ### Skills:
