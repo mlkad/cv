@@ -10,7 +10,12 @@
 
 ### About myself:
 
-I am studying at Astana IT University with GPA 3.3. ALso, I have experience in participating in hackathons. I took 3rd place at the hackathon held by the ACM Club of Nazarbayev University "Code Girl Summer". I also participated in HackNu and Amanat hackathon. I always try to take advantage of every opportunity to gain knowledge.
+I am studying at Astana IT University with GPA 2.9. I have extensive experience in participating in hackathons and olympiads, for instance:
+* 3rd place at "Code Girl Summer" hackaton held by ACM club of Nazarbayev University, 2023
+* "Amanat Tech" hackaton, 2023
+* HackNu hackaton, 2024
+* GDSC hackaton, 2024
+* AITU Open olympiad in sports programming, 2024
 
 ### Skills:
 
@@ -19,7 +24,6 @@ I am studying at Astana IT University with GPA 3.3. ALso, I have experience in p
 * HTML, CSS
 * PostgreSQL
 * Figma, Adobe Photoshop CS6
-* VS code, Visual Studio, IntellJ IDEA
 * Git, GitHub
 
 ### Code example:
@@ -55,10 +59,10 @@ function differenceInAges(ages){
 ### Education:
 * Bachelor degree Software Engineering at Astana IT University (2023-2026)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (expected)
-* Marathon by ACM club of Nazarbayev Unuversity of Frontend Development "Code Girl Summer", 2023
+* Marathon by ACM club of Nazarbayev Unuversity(Astana) of Frontend Development "Code Girl Summer", 2023
 
 ### Languages:
-* English B2 (IELTS 6.0)
+* English B2 (IELTS band 6.0)
 * Russian (Native Speaker)
 * Kazakh (Intermediate)
   
