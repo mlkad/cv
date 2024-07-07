@@ -1,0 +1,150 @@
+body {
+  font-family: 'Elegant', elegant;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+nav {
+  text-align: right;
+  margin-left: 100px;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav ul li::before {
+  content: "\2022"; 
+  color: #333;
+  font-size: 18px;
+  margin-right: 5px; 
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.photo img {
+  border-radius: 50%;
+  width: 100px;
+  height: 139px;
+}
+
+.name-title {
+  margin-left: 20px;
+}
+
+.name-title h1 {
+  margin: 0;
+  font-size: 36px;
+  font-family: 'Elegant', elegant;
+}
+
+.name-title h2 {
+  margin: 5px 0 0;
+  font-size: 24px;
+  color: #777;
+  font-family: 'Elegant', elegant;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-column, .right-column {
+  width: 48%;
+}
+
+.left-column div, .right-column section {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin: 0 0 10px;
+  font-family: 'Elegant', elegant;
+  font-size: 24px;
+}
+
+ul li {
+  list-style-type: disc;
+  margin-bottom: 10px;
+}
+
+.contact-info, .skills, .languages, .about, .code-example {
+  margin-bottom: 30px; 
+}
+
+
+.contact-info a {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+.code-example pre {
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-family: 'Elegant', elegant;
+}
+
+
+
+.footer-content {
+  background-color: #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px; 
+  margin: 0 auto; 
+  padding: 10px 20px; 
+}
+
+.footer-content a {
+  text-decoration: none;
+  color: #000;
+}
+
+.footer-content p {
+  margin: 0;
+  color: #777;
+}
+
+.footer-content img {
+  margin-left: 10px;
+}
